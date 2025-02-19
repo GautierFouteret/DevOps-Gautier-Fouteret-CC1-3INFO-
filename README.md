@@ -21,6 +21,11 @@ Ce projet est destiné à valider les connaissances en DevOps des élèves de 3�
 | build passing                             | ![build passing](https://img.shields.io/travis/com/GautierFouteret/DevOps-Gautier-Fouteret-CC1-3INFO-) |
 | build passing                             | ![build passing](https://img.shields.io/travis/org/GautierFouteret/DevOps-Gautier-Fouteret-CC1-3INFO-) |
 
+## Lien vers le site
+
+Vous pouvez consulter le site en ligne ici : [Mon site DevOps](https://devops-gautier-fouteret-cc1-3info.netlify.app/)
+
+Ce lien mène à l'instance déployée de l'application.
 ---
 ## Instructions
 
