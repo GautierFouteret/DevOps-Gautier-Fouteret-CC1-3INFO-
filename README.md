@@ -5,6 +5,7 @@ Ce projet est destiné à valider les connaissances en DevOps des élèves de 3�
 ## Available Badges
 ![Tests Unitaires](https://github.com/GautierFouteret/DevOps-Gautier-Fouteret-CC1-3INFO/actions/workflows/tests.yml/badge.svg)
 
+
 | Key                                      | Badge                                                                                         |
 | ---------------------------------------- | --------------------------------------------------------------------------------------------- |
 | Tests Unitaires    | ![Tests Unitaires](https://github.com/GautierFouteret/DevOps-Gautier-Fouteret-CC1-3INFO-/actions/workflows/tests.yml/badge.svg) |
