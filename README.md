@@ -6,7 +6,7 @@ Ce projet est destiné à valider les connaissances en DevOps des élèves de 3�
 
 | Key                                      | Badge                                                                                         |
 | ---------------------------------------- | --------------------------------------------------------------------------------------------- |
-| Tests Unitaires    | ![Tests Unitaires](https://github.com/GautierFouteret/DevOps-Gautier-Fouteret-CC1-3INFO/actions/workflows/tests.yml/badge.svg) |
+| Tests Unitaires    | ![Tests Unitaires](https://github.com/GautierFouteret/DevOps-Gautier-Fouteret-CC1-3INFO-/actions/workflows/tests.yml/badge.svg) |
 | licenceMIT                               | ![licenceMIT](https://img.shields.io/github/license/GautierFouteret/DevOps-Gautier-Fouteret-CC1-3INFO) |
 | versionv1.1                               | ![versionv1.1](https://img.shields.io/github/package-json/v/GautierFouteret/DevOps-Gautier-Fouteret-CC1-3INFO) |
 | stars3                                    | ![stars3](https://img.shields.io/github/stars/GautierFouteret/DevOps-Gautier-Fouteret-CC1-3INFO?style=social) |
