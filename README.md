@@ -24,6 +24,7 @@ Ce projet est destiné à valider les connaissances en DevOps des élèves de 3�
 ## Lien vers le site
 
 Vous pouvez consulter le site en ligne ici : [Mon site DevOps](https://devops-gautier-fouteret-cc1-3info.netlify.app/)
+https://devops-gautier-fouteret-cc1-3info.netlify.app/
 
 Ce lien mène à l'instance déployée de l'application.
 ---
